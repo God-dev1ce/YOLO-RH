@@ -26,7 +26,7 @@ Fig. 5 Heatmap of Ablation Experiments
 <td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%205%20Heatmap%20of%20Ablation%20Experiments/image15.png" width="200" height="150" border="0"></td>
 <td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%205%20Heatmap%20of%20Ablation%20Experiments/image16.png" width="200" height="150" border="0"></td>
 <td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%205%20Heatmap%20of%20Ablation%20Experiments/image17.png" width="200" height="150" border="0"></td>
-<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%205%20Heatmap%20of%20Ablation%20Experiments/image18.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%205%20Heatmap%20of%20Ablation%20Experiments/image18.jpeg" width="200" height="150" border="0"></td>
 <td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%205%20Heatmap%20of%20Ablation%20Experiments/image19.png" width="200" height="150" border="0"></td>
 </tr></table>
 
