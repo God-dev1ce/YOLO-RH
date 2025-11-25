@@ -82,6 +82,45 @@ Fig. 6 Detection Results of Ablation Experiments
 <td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image48.jpeg" width="200" height="150" border="0"></td>
 </tr></table>
 
+<table>
+<tr>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image49.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image50.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image51.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image52.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image53.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image54.png" width="200" height="150" border="0"></td>
+</tr></table>
+
+<table>
+<tr>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image55.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image56.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image57.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image58.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image59.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image60.png" width="200" height="150" border="0"></td>
+</tr></table>
+
+<table>
+<tr>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image61.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image62.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image63.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image64.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image65.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image66.png" width="200" height="150" border="0"></td>
+</tr></table>
+
+<table>
+<tr>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image67.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image68.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image69.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image70.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image71.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%206%20Detection%20Results%20of%20Ablation%20Experiments/image72.png" width="200" height="150" border="0"></td>
+</tr></table>
 
 Fig. 7. Distribution of Error Types Across Models
 
