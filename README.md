@@ -13,17 +13,30 @@ The ./figures/ directory contains all high-resolution figures used in the experi
 The complete training loss curve.
 Other analysis figures presented in the paper.
 
-Figure 4 The detection results of each module in the ablation study
+Fig. 4. Standard Deviation Chart of The Ablation Study
 <table>
 <tr>
 <td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%204.%20Standard%20Deviation%20Chart%20of%20The%20Ablation%20Study/image13.png" width="200" height="150" border="0"></td>
-<td><img src="https://github.com/GeRongGang/MNF-YOLO/raw/main/image9.jpeg" width="200" height="150" border="0"></td>
-<td><img src="https://github.com/GeRongGang/MNF-YOLO/raw/main/image10.jpeg" width="200" height="150" border="0"></td>
 </tr></table>
 
+Fig. 5 Heatmap of Ablation Experiments
 <table>
 <tr>
-<td><img src="https://github.com/GeRongGang/MNF-YOLO/raw/main/image11.jpeg" width="200" height="150" border="0"></td>
-<td><img src="https://github.com/GeRongGang/MNF-YOLO/raw/main/image12.jpeg" width="200" height="150" border="0"></td>
-<td><img src="https://github.com/GeRongGang/MNF-YOLO/raw/main/image13.jpeg" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%205%20Heatmap%20of%20Ablation%20Experiments/image14.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%205%20Heatmap%20of%20Ablation%20Experiments/image15.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%205%20Heatmap%20of%20Ablation%20Experiments/image16.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%205%20Heatmap%20of%20Ablation%20Experiments/image17.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%205%20Heatmap%20of%20Ablation%20Experiments/image18.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%205%20Heatmap%20of%20Ablation%20Experiments/image19.png" width="200" height="150" border="0"></td>
 </tr></table>
+
+Fig. 6 Detection Results of Ablation Experiments
+
+
+Fig. 7. Distribution of Error Types Across Models
+
+Fig. 8. Standard Deviation of Comparative Experiments with State-of-The-Art Models
+
+Fig. 9. Standard Deviation of Generalization Experiments
+
+Training Curves of the Proposed Method
