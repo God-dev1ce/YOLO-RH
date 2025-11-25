@@ -123,9 +123,21 @@ Fig. 6 Detection Results of Ablation Experiments
 </tr></table>
 
 Fig. 7. Distribution of Error Types Across Models
+<table>
+<tr>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%207.%20Distribution%20of%20Error%20Types%20Across%20Models/image73.png" width="600" height="450" border="0"></td>
+</tr></table>
 
 Fig. 8. Standard Deviation of Comparative Experiments with State-of-The-Art Models
+<table>
+<tr>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%208.%20Standard%20Deviation%20of%20Comparative%20Experiments%20with%20State-of-The-Art%20Models/image74.png" width="600" height="450" border="0"></td>
+</tr></table>
 
 Fig. 9. Standard Deviation of Generalization Experiments
+<table>
+<tr>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%209.%20Standard%20Deviation%20of%20Generalization%20Experiments/image75.png" width="600" height="450" border="0"></td>
+</tr></table>
 
 Training Curves of the Proposed Method
