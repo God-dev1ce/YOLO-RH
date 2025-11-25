@@ -6,12 +6,10 @@ Experimental Setup
 
 Data Pre-processing: The only pre-processing step applied to the input images was resizing them to a resolution of 640×640. No other pre-processing techniques were used.
 Dataset Split: The dataset was randomly split into training, validation, and test sets with a ratio of 8 : 1 : 1. A fixed random seed of 42 was used to ensure the reproducibility of the results.
-Resource Directory
 
-The ./figures/ directory contains all high-resolution figures used in the experimental analysis section of the paper, including:
+Figures
 
-The complete training loss curve.
-Other analysis figures presented in the paper.
+All high-resolution figures from the experimental analysis in the paper, along with the complete training loss curve, are provided in the ./figures directory.
 
 Fig. 4. Standard Deviation Chart of The Ablation Study
 <table>
