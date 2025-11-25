@@ -141,6 +141,7 @@ Fig. 9. Standard Deviation of Generalization Experiments
 </tr></table>
 
 Training Curves of the Proposed Method
+
 Baseline                                                             YOLO-RR
 <table>
 <tr>
