@@ -141,15 +141,17 @@ Fig. 9. Standard Deviation of Generalization Experiments
 </tr></table>
 
 Training Curves of the Proposed Method
+Baseline                                                             YOLO-RR
 <table>
 <tr>
-<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Training%20Curves%20of%20the%20Proposed%20Method/Baseline.png" width="200" height="150" border="0"></td>
-<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Training%20Curves%20of%20the%20Proposed%20Method/YOLO-RR.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Training%20Curves%20of%20the%20Proposed%20Method/Baseline.png" width="400" height="300" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Training%20Curves%20of%20the%20Proposed%20Method/YOLO-RR.png" width="400" height="300" border="0"></td>
 </tr></table>
-Baseline                            YOLO-RR
+
+YOLO-HF                                                              YOLO-RH
 <table>
 <tr>
-<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Training%20Curves%20of%20the%20Proposed%20Method/YOLO-HF.png" width="200" height="150" border="0"></td>
-<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Training%20Curves%20of%20the%20Proposed%20Method/YOLO-RH.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Training%20Curves%20of%20the%20Proposed%20Method/YOLO-HF.png" width="400" height="300" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Training%20Curves%20of%20the%20Proposed%20Method/YOLO-RH.png" width="400" height="300" border="0"></td>
 </tr></table>
-YOLO-HF                            YOLO-RH
+
