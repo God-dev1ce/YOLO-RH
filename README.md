@@ -12,3 +12,18 @@ The ./figures/ directory contains all high-resolution figures used in the experi
 
 The complete training loss curve.
 Other analysis figures presented in the paper.
+
+Figure 4 The detection results of each module in the ablation study
+<table>
+<tr>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/edit/main/figures/Fig. 4. Standard Deviation Chart of The Ablation Study/image13.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/GeRongGang/MNF-YOLO/raw/main/image9.jpeg" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/GeRongGang/MNF-YOLO/raw/main/image10.jpeg" width="200" height="150" border="0"></td>
+</tr></table>
+
+<table>
+<tr>
+<td><img src="https://github.com/GeRongGang/MNF-YOLO/raw/main/image11.jpeg" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/GeRongGang/MNF-YOLO/raw/main/image12.jpeg" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/GeRongGang/MNF-YOLO/raw/main/image13.jpeg" width="200" height="150" border="0"></td>
+</tr></table>
