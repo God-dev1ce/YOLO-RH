@@ -16,7 +16,7 @@ Other analysis figures presented in the paper.
 Fig. 4. Standard Deviation Chart of The Ablation Study
 <table>
 <tr>
-<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%204.%20Standard%20Deviation%20Chart%20of%20The%20Ablation%20Study/image13.png" width="200" height="150" border="0"></td>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%204.%20Standard%20Deviation%20Chart%20of%20The%20Ablation%20Study/image13.png" width="400" height="300" border="0"></td>
 </tr></table>
 
 Fig. 5 Heatmap of Ablation Experiments
