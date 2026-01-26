@@ -126,6 +126,13 @@ Fig. 7. Distribution of Error Types Across Models
 <td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%207.%20Distribution%20of%20Error%20Types%20Across%20Models/image73.png" width="600" height="450" border="0"></td>
 </tr></table>
 
+
+Fig. 8. 
+<table>
+<tr>
+<td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/confusion_matrix_normalized.png" width="600" height="450" border="0"></td>
+</tr></table>
+
 Fig. 8. Standard Deviation of Comparative Experiments with State-of-The-Art Models
 <table>
 <tr>
