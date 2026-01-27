@@ -127,19 +127,19 @@ Fig. 7. Distribution of Error Types Across Models
 </tr></table>
 
 
-Fig. 8. 
+Fig. 8. Confusion Matrix of YOLO-RH
 <table>
 <tr>
 <td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/confusion_matrix_normalized.png" width="600" height="450" border="0"></td>
 </tr></table>
 
-Fig. 8. Standard Deviation of Comparative Experiments with State-of-The-Art Models
+Fig. 9. Standard Deviation of Comparative Experiments with State-of-The-Art Models
 <table>
 <tr>
 <td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%208.%20Standard%20Deviation%20of%20Comparative%20Experiments%20with%20State-of-The-Art%20Models/image74.png" width="600" height="450" border="0"></td>
 </tr></table>
 
-Fig. 9. Standard Deviation of Generalization Experiments
+Fig. 10. Standard Deviation of Generalization Experiments
 <table>
 <tr>
 <td><img src="https://github.com/God-dev1ce/YOLO-RH/blob/main/figures/Fig.%209.%20Standard%20Deviation%20of%20Generalization%20Experiments/image75.png" width="600" height="450" border="0"></td>
