@@ -1,7 +1,7 @@
 Important Links
 
 Code: Located in the ./cord directory of this repository.
-Dataset: Download link: https://pan.baidu.com/s/1ztJTppoiwbzjfo7Oqhx40A?pwd=8c9m (Access Code: 8c9m)
+Dataset: Download link: https://pan.baidu.com/s/1ogaKDAPYFcVU4u9ex40xcQ
 Experimental Setup
 
 Data Pre-processing: The only pre-processing step applied to the input images was resizing them to a resolution of 640×640. No other pre-processing techniques were used.
